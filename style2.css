@@ -118,3 +118,8 @@ body {
 .texto h3 {
     margin-top: 0;
 }
+
+/* Estilo adicional para múltiples prendas */
+.contenedor .contenido {
+    margin-bottom: 20px;
+}
